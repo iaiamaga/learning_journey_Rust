@@ -1,0 +1,1 @@
+rd_("BmExemploresultado calculadora::soma(2, 3); \xe2\x80\xa6")

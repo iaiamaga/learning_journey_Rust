@@ -1,0 +1,7 @@
+[package]
+name = "teste_variavel"
+version = "0.1.0"
+edition = "2024"
+author = "Magaiaia"
+
+[dependencies]
